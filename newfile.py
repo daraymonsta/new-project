@@ -2,3 +2,4 @@
 
 print("Hey everybody!")
 print('Hey')
+print('Hey buddy')
